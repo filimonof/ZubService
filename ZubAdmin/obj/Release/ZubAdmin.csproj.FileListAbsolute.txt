@@ -1,0 +1,4 @@
+D:\project\C#\ZubService\ZubAdmin\obj\Release\ZubAdmin.exe
+D:\project\C#\ZubService\ZubAdmin\obj\Release\ZubAdmin.pdb
+D:\project\C.NET\ZubService\ZubAdmin\obj\Release\ZubAdmin.exe
+D:\project\C.NET\ZubService\ZubAdmin\obj\Release\ZubAdmin.pdb
