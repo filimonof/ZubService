@@ -1,1 +1,0 @@
-C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\InstallUtil.exe D:\project\C#\ZubService\Zub\bin\Debug\Zub.exe
